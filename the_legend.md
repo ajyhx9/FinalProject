@@ -1,8 +1,9 @@
-#The Legend
+# The Legend
 
 
-##Check it out y'all
+## Check it out y'all
 
+<!DOCTYPE html>
 <html lang="en-US">
     <head>
     <title></title>
