@@ -20,9 +20,6 @@ As further proof of my intelligence observe this list of numbers I thought of of
 - 8007
    1. 8007.3 
    2. 8007.1001010203
--3088.346
--47
--3
 
 ---
 
