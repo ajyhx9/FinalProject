@@ -3,7 +3,7 @@
 
 Here's me.
 
-![The Man]("Boys have swag, Men have class.")
+![The Man]( yum.JPG "Boys have swag, Men have class.")
 
 Info: I go to college. I'm taking INFOTC 1000. I am human. I often breathe. I wrote this page in markdown.
 
