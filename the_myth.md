@@ -18,9 +18,8 @@ As further proof of my intelligence observe this list of numbers I thought of of
 - 74.1
 - 360,000,000
 - 8007
-   1. 8007.3
+   1. 8007.3 
    2. 8007.1001010203
-   
 -3088.346
 -47
 -3
@@ -31,7 +30,7 @@ As further proof of my intelligence observe this list of numbers I thought of of
 
 This is true, as a man, I am very classy.
 
-Remember: Boys have *swag*, Men have **class**.
+Remember: Boys have **swag**, Men have *class*.
 
 
 
