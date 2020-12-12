@@ -11,9 +11,9 @@ By the grace of G-d I was able to meet the requirements for the project. Such is
 
 ### Look upon my works and weep
 
-[##### The Man](the_man.md)
+#### [The Man](the_man.md)
 
-[#### The Myth](the_myth.md)
+#### [The Myth](the_myth.md)
 
-[#### The Legend](the_legend.md)
+#### [The Legend](the_legend.md)
 
