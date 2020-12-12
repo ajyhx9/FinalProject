@@ -13,7 +13,7 @@ By the grace of G-d I was able to meet the requirements for the project. Such is
 
 [##### The Man](the_man.md)
 
-#### The Myth
+[#### The Myth](the_myth.md)
 
-#### The Legend
+[#### The Legend](the_legend.md)
 
